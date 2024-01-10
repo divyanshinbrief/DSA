@@ -1,2 +1,2 @@
 # DSA
-Collection Of My Daily DSA Learnings. 
+Collection of My Daily DSA Learnings.
